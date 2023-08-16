@@ -1089,7 +1089,7 @@
       "secondaryId": 0
     },
     {
-      "english": "EndlessCandy",
+      "english": "RARE CANDY",
       "itemId": "ITEM_RARE_CANDY",
       "price": 4800,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1097,9 +1097,9 @@
       "description_english": "A candy that is packed with energy.\\nIt raises the level of a POKéMON\\nby one.",
       "importance": 0,
       "registrability": 0,
-      "pocket": "POCKET_KEY_ITEMS",
+      "pocket": "POCKET_ITEMS",
       "type": "ITEM_TYPE_PARTY_MENU",
-      "fieldUseFunc": "FieldUseFunc_Medicine",
+      "fieldUseFunc": "FieldUseFunc_RareCandy",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0
@@ -1345,7 +1345,7 @@
       "secondaryId": 0
     },
     {
-      "english": "EndlessRepel",
+      "english": "MAX REPEL",
       "itemId": "ITEM_MAX_REPEL",
       "price": 700,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1353,7 +1353,7 @@
       "description_english": "Prevents weak wild POKéMON from\\nappearing for 250 steps.",
       "importance": 0,
       "registrability": 0,
-      "pocket": "POCKET_KEY_ITEMS",
+      "pocket": "POCKET_ITEMS",
       "type": "ITEM_TYPE_BAG_MENU",
       "fieldUseFunc": "FieldUseFunc_Repel",
       "battleUsage": 0,
